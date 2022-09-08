@@ -1,0 +1,176 @@
+body {
+    background: black;
+}
+
+.logo-imagem {
+    margin-left: 50px;
+    width: 110px;
+    height: 110px;
+}
+
+.nav-link {
+    color: #81F7F3;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.rounded-circle {
+    margin-bottom: 10px;
+    width: 250px;
+    height: 250px;
+}
+
+.quem-somos {
+    margin-top: 135px;
+    background-color: #585858;
+    color: white;
+}
+
+.icone-desenvolvimento {
+    margin-bottom: 20px;
+    width: 30px;
+}
+
+.icone-negocio {
+    margin-bottom: 10px;
+}
+
+.icone-ideia {
+    margin-bottom: 10px;
+}
+
+.servico {
+    margin-top: 10px;
+    background-color: #58ACFA;
+    color: black;
+}
+
+.icone-busca {
+    margin-bottom: 20px;
+    width: 30px;
+}
+
+.icone-produto {
+    margin-bottom: 20px;
+}
+
+.icone-construcao {
+    margin-bottom: 20px;
+}
+
+.cliente {
+    margin-top: 10px;
+    background-color: darkviolet;
+    color: white;
+}
+
+.icone-cliente1 {
+    margin-bottom: 20px;
+    width: 30px;
+}
+
+.icone-cliente2 {
+    height: 30px;
+}
+
+.parceiros {
+    margin-top: 10px;
+    background-color: #0B243B;
+    color: white;
+}
+
+.one-company {
+    width: 200px;
+    height: 200px;
+}
+
+.two-company {
+    width: 200px;
+    height: 200px;
+}
+
+.contato {
+    margin-top: 10px;
+    background-color: white;
+    color: black;
+}
+
+.icone-telefone {
+    margin-left: -235px;
+}
+
+.telefone {
+    margin-left: -230px;
+    color: black;
+}
+
+.icone-email {
+    margin-left: 200px;
+    margin-top: -175px;
+}
+
+.email {
+    margin-left: 200px;
+    margin-top: -65px;
+    color: black;
+}
+
+.rodape {
+    margin-top: 10px;
+    background-color: #151515;
+    color: white;
+}
+
+.logo-rodape {
+    width: 200px;
+}
+
+.globallabs {
+    margin-top: -140px;
+    margin-left: 200px;
+    font-size: 30px;
+}
+
+.privacidade {
+    margin-top: -2px;
+    margin-left: 42px;
+    font-size: 12px;
+}
+
+.rodape-sobre {
+    margin-top: 70px;
+    margin-left: 40px;
+    color: #81F7F3;
+}
+
+.rodape-servico {
+    margin-top: -40px;
+    margin-left: 130px;
+    color: #81F7F3;
+}
+
+.rodape-cliente {
+    margin-top: -40px;
+    margin-left: 250px;
+    color: #81F7F3;
+}
+
+.rodape-parceiros {
+    margin-top: -40px;
+    margin-left: 360px;
+    color: #81F7F3;
+}
+
+.rodape-contato {
+    margin-top: -40px;
+    margin-left: 480px;
+    color: #81F7F3;
+}
+
+.developer {
+    margin-left: 42px;
+    font-size: 12px;
+}
